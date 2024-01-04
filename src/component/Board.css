@@ -1,0 +1,8 @@
+.board{
+  border-radius: 15px;
+  overflow: hidden;
+}
+.board-row{
+  display: flex;
+  box-sizing: border-box;
+}
