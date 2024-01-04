@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-tictactoe/static/css/main.0d343f1a.css",
+    "main.js": "/react-tictactoe/static/js/main.7da9877e.js",
+    "static/js/787.7b6dea5d.chunk.js": "/react-tictactoe/static/js/787.7b6dea5d.chunk.js",
+    "static/media/img-pollen.gif": "/react-tictactoe/static/media/img-pollen.3dbeee2390714f429543.gif",
+    "index.html": "/react-tictactoe/index.html",
+    "main.0d343f1a.css.map": "/react-tictactoe/static/css/main.0d343f1a.css.map",
+    "main.7da9877e.js.map": "/react-tictactoe/static/js/main.7da9877e.js.map",
+    "787.7b6dea5d.chunk.js.map": "/react-tictactoe/static/js/787.7b6dea5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d343f1a.css",
+    "static/js/main.7da9877e.js"
+  ]
+}
